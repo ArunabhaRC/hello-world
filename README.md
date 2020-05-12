@@ -1,6 +1,6 @@
 # hello-world
 
-Hello Everyone
+Hello World
 
 I'm new to Github and learning as I go. I have some experience in Python and am currently learning Java as part of a Java SDET course. 
 I love music, movies and television and am an abid reader. 
